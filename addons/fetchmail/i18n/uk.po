@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-07 19:37+0000\n"
-"PO-Revision-Date: 2015-09-20 17:10+0000\n"
+"PO-Revision-Date: 2016-05-25 16:16+0000\n"
 "Last-Translator: Martin Trigaux\n"
 "Language-Team: Ukrainian (http://www.transifex.com/odoo/odoo-7/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -65,7 +65,7 @@ msgstr ""
 #. module: fetchmail
 #: view:base.config.settings:0
 msgid "Configure the incoming email gateway"
-msgstr ""
+msgstr "Налаштувати сервер вхідної пошти"
 
 #. module: fetchmail
 #: view:fetchmail.server:0
@@ -76,7 +76,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:fetchmail.action_email_server_tree
 #: model:ir.ui.menu,name:fetchmail.menu_action_fetchmail_server_tree
 msgid "Incoming Mail Servers"
-msgstr ""
+msgstr "Сервери вхідної пошти"
 
 #. module: fetchmail
 #: view:fetchmail.server:0
@@ -121,7 +121,7 @@ msgstr ""
 #. module: fetchmail
 #: field:fetchmail.server,date:0
 msgid "Last Fetch Date"
-msgstr ""
+msgstr "Дата останнього отримання"
 
 #. module: fetchmail
 #: help:fetchmail.server,action_id:0
@@ -143,7 +143,7 @@ msgstr ""
 #. module: fetchmail
 #: view:fetchmail.server:0
 msgid "Advanced Options"
-msgstr ""
+msgstr "Advanced Options"
 
 #. module: fetchmail
 #: view:fetchmail.server:0 field:fetchmail.server,configuration:0
@@ -169,7 +169,7 @@ msgstr ""
 #. module: fetchmail
 #: field:fetchmail.server,user:0
 msgid "Username"
-msgstr ""
+msgstr "Користувач"
 
 #. module: fetchmail
 #: help:fetchmail.server,server:0
@@ -208,12 +208,12 @@ msgstr ""
 #: field:fetchmail.server,message_ids:0
 #: model:ir.actions.act_window,name:fetchmail.act_server_history
 msgid "Messages"
-msgstr ""
+msgstr "Повідомлення"
 
 #. module: fetchmail
 #: view:fetchmail.server:0
 msgid "Search Incoming Mail Servers"
-msgstr ""
+msgstr "Пошук серверів вхідної пошти"
 
 #. module: fetchmail
 #: field:fetchmail.server,active:0
@@ -230,7 +230,7 @@ msgstr ""
 #. module: fetchmail
 #: model:ir.model,name:fetchmail.model_mail_mail
 msgid "Outgoing Mails"
-msgstr ""
+msgstr "Вихідна пошта"
 
 #. module: fetchmail
 #: field:fetchmail.server,priority:0
@@ -285,7 +285,7 @@ msgstr ""
 #. module: fetchmail
 #: view:fetchmail.server:0
 msgid "Advanced"
-msgstr ""
+msgstr "Розширений"
 
 #. module: fetchmail
 #: view:fetchmail.server:0

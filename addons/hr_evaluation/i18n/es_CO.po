@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-07 19:36+0000\n"
-"PO-Revision-Date: 2015-07-17 09:02+0000\n"
+"PO-Revision-Date: 2016-03-30 08:24+0000\n"
 "Last-Translator: Martin Trigaux\n"
 "Language-Team: Spanish (Colombia) (http://www.transifex.com/odoo/odoo-7/language/es_CO/)\n"
 "MIME-Version: 1.0\n"
@@ -97,7 +97,7 @@ msgstr ""
 #: view:hr.employee:0
 #: model:ir.ui.menu,name:hr_evaluation.menu_open_view_hr_evaluation_tree
 msgid "Appraisals"
-msgstr ""
+msgstr "Evaluaciones"
 
 #. module: hr_evaluation
 #: view:hr_evaluation.plan.phase:0
@@ -113,7 +113,7 @@ msgstr "Mensajes"
 #. module: hr_evaluation
 #: view:hr_evaluation.plan.phase:0
 msgid "Mail Body"
-msgstr ""
+msgstr "Cuerpo del Correo"
 
 #. module: hr_evaluation
 #: field:hr_evaluation.plan.phase,wait:0
@@ -123,7 +123,7 @@ msgstr ""
 #. module: hr_evaluation
 #: model:ir.model,name:hr_evaluation.model_hr_evaluation_evaluation
 msgid "Employee Appraisal"
-msgstr ""
+msgstr "Evaluación de Empleado"
 
 #. module: hr_evaluation
 #: selection:hr.evaluation.report,state:0
@@ -142,7 +142,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:hr_evaluation.open_view_hr_evaluation_tree
 #: model:ir.ui.menu,name:hr_evaluation.menu_eval_hr
 msgid "Appraisal"
-msgstr ""
+msgstr "Evaluación"
 
 #. module: hr_evaluation
 #: help:hr.evaluation.interview,message_unread:0
@@ -207,7 +207,7 @@ msgstr "Contiene el resumen de la charla (número de mensajes, ...). Este resume
 #. module: hr_evaluation
 #: view:hr_evaluation.evaluation:0
 msgid "Reset to Draft"
-msgstr ""
+msgstr "Cambiar a Borrador"
 
 #. module: hr_evaluation
 #: field:hr.evaluation.report,deadline:0
@@ -224,7 +224,7 @@ msgstr "¡Advertencia!"
 #. module: hr_evaluation
 #: view:hr.evaluation.report:0
 msgid "In progress Evaluations"
-msgstr ""
+msgstr "Evaluaciones en Proceso"
 
 #. module: hr_evaluation
 #: model:ir.model,name:hr_evaluation.model_survey_request
@@ -270,7 +270,7 @@ msgstr "Mensajes sin Leer"
 #: field:hr_evaluation.evaluation,employee_id:0
 #: model:ir.model,name:hr_evaluation.model_hr_employee
 msgid "Employee"
-msgstr ""
+msgstr "Empleado"
 
 #. module: hr_evaluation
 #: selection:hr_evaluation.evaluation,state:0
@@ -280,7 +280,7 @@ msgstr "Nuevo(a)"
 #. module: hr_evaluation
 #: field:hr_evaluation.plan.phase,mail_body:0
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #. module: hr_evaluation
 #: selection:hr.evaluation.report,rating:0
@@ -323,7 +323,7 @@ msgstr ""
 #. module: hr_evaluation
 #: view:hr.evaluation.report:0 field:hr_evaluation.evaluation,rating:0
 msgid "Appreciation"
-msgstr ""
+msgstr "Apreciación"
 
 #. module: hr_evaluation
 #: view:hr_evaluation.evaluation:0
@@ -385,12 +385,12 @@ msgstr ""
 #. module: hr_evaluation
 #: field:hr_evaluation.evaluation,note_action:0
 msgid "Action Plan"
-msgstr ""
+msgstr "Plan de Acción"
 
 #. module: hr_evaluation
 #: model:ir.ui.menu,name:hr_evaluation.menu_eval_hr_config
 msgid "Periodic Appraisal"
-msgstr ""
+msgstr "Evaluación Periódica"
 
 #. module: hr_evaluation
 #: field:hr_evaluation.plan,month_next:0
@@ -442,7 +442,7 @@ msgstr "Mes"
 #. module: hr_evaluation
 #: view:hr_evaluation.evaluation:0
 msgid "Group by..."
-msgstr ""
+msgstr "Agrupado por..."
 
 #. module: hr_evaluation
 #: view:hr_evaluation.plan.phase:0
@@ -464,7 +464,7 @@ msgstr ""
 #. module: hr_evaluation
 #: view:hr_evaluation.plan.phase:0
 msgid "Legend"
-msgstr ""
+msgstr "Leyenda"
 
 #. module: hr_evaluation
 #: help:hr_evaluation.evaluation,note_action:0
@@ -500,7 +500,7 @@ msgstr ""
 #. module: hr_evaluation
 #: view:hr.evaluation.interview:0
 msgid "Print Survey"
-msgstr ""
+msgstr "Imprimir Encuesta"
 
 #. module: hr_evaluation
 #: selection:hr.evaluation.report,month:0
@@ -538,7 +538,7 @@ msgstr "Es un Seguidor"
 #: view:hr.evaluation.report:0 field:hr.evaluation.report,plan_id:0
 #: view:hr_evaluation.evaluation:0 field:hr_evaluation.evaluation,plan_id:0
 msgid "Plan"
-msgstr ""
+msgstr "Plan"
 
 #. module: hr_evaluation
 #: field:hr_evaluation.plan,active:0
@@ -589,17 +589,17 @@ msgstr "Fecha"
 #. module: hr_evaluation
 #: view:hr.evaluation.interview:0
 msgid "Survey"
-msgstr ""
+msgstr "Encuesta"
 
 #. module: hr_evaluation
 #: field:hr_evaluation.plan.phase,action:0
 msgid "Action"
-msgstr ""
+msgstr "Acción"
 
 #. module: hr_evaluation
 #: view:hr.evaluation.report:0 selection:hr.evaluation.report,state:0
 msgid "Final Validation"
-msgstr ""
+msgstr "Validación Final"
 
 #. module: hr_evaluation
 #: selection:hr_evaluation.evaluation,state:0
@@ -611,12 +611,12 @@ msgstr ""
 #: model:ir.actions.act_window,name:hr_evaluation.action_evaluation_report_all
 #: model:ir.ui.menu,name:hr_evaluation.menu_evaluation_report_all
 msgid "Appraisal Analysis"
-msgstr ""
+msgstr "Análisis de Valoración"
 
 #. module: hr_evaluation
 #: field:hr_evaluation.evaluation,date:0
 msgid "Appraisal Deadline"
-msgstr ""
+msgstr "Fecha Tope de Evaluación"
 
 #. module: hr_evaluation
 #: field:hr.evaluation.report,rating:0
@@ -651,7 +651,7 @@ msgstr ""
 #. module: hr_evaluation
 #: view:hr_evaluation.plan.phase:0
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #. module: hr_evaluation
 #: help:hr_evaluation.plan.phase,send_answer_employee:0
@@ -685,7 +685,7 @@ msgstr "En Progreso"
 #. module: hr_evaluation
 #: view:hr.evaluation.interview:0
 msgid "To Do"
-msgstr ""
+msgstr "Por Hacer"
 
 #. module: hr_evaluation
 #: view:hr.evaluation.report:0
@@ -712,7 +712,7 @@ msgstr "Octubre"
 msgid ""
 "The date of the next appraisal is computed by the appraisal plan's dates "
 "(first appraisal + periodicity)."
-msgstr ""
+msgstr "La fecha de la próxima evaluación se calcula conforme a las fechas del plan de evaluación (primera evaluación + periodicidad)."
 
 #. module: hr_evaluation
 #: field:hr.evaluation.report,overpass_delay:0
@@ -761,12 +761,12 @@ msgstr ""
 #. module: hr_evaluation
 #: view:hr_evaluation.evaluation:0
 msgid "Internal Notes"
-msgstr ""
+msgstr "Notas Internas"
 
 #. module: hr_evaluation
 #: selection:hr_evaluation.plan.phase,action:0
 msgid "Final Interview"
-msgstr ""
+msgstr "Entrevista Final"
 
 #. module: hr_evaluation
 #: field:hr_evaluation.plan.phase,name:0
@@ -850,7 +850,7 @@ msgstr "Mensajes e historial de comunicación"
 #. module: hr_evaluation
 #: view:hr.evaluation.interview:0 view:hr_evaluation.evaluation:0
 msgid "Search Appraisal"
-msgstr ""
+msgstr "Buscar Evaluación"
 
 #. module: hr_evaluation
 #: field:hr_evaluation.plan.phase,sequence:0
@@ -888,7 +888,7 @@ msgstr ""
 #. module: hr_evaluation
 #: field:hr.employee,evaluation_date:0
 msgid "Next Appraisal Date"
-msgstr ""
+msgstr "Siguiente Fecha de Evaluación"
 
 #. module: hr_evaluation
 #: view:hr_evaluation.evaluation:0

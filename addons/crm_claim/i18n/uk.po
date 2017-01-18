@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-14 00:10+0000\n"
-"PO-Revision-Date: 2015-09-27 08:05+0000\n"
+"PO-Revision-Date: 2016-04-29 16:14+0000\n"
 "Last-Translator: Martin Trigaux\n"
 "Language-Team: Ukrainian (http://www.transifex.com/odoo/odoo-7/language/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -32,12 +32,12 @@ msgstr ""
 #. module: crm_claim
 #: view:crm.claim:0 view:crm.claim.report:0
 msgid "Group By..."
-msgstr ""
+msgstr "Група"
 
 #. module: crm_claim
 #: view:crm.claim:0
 msgid "Responsibilities"
-msgstr ""
+msgstr "Обов'язки"
 
 #. module: crm_claim
 #: help:sale.config.settings,fetchmail_claim:0
@@ -54,17 +54,17 @@ msgstr ""
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "March"
-msgstr ""
+msgstr "March"
 
 #. module: crm_claim
 #: field:crm.claim.report,delay_close:0
 msgid "Delay to close"
-msgstr ""
+msgstr "Затримка закриття"
 
 #. module: crm_claim
 #: field:crm.claim,message_unread:0
 msgid "Unread Messages"
-msgstr ""
+msgstr "Непрочитані повідомлення"
 
 #. module: crm_claim
 #: field:crm.claim,resolution:0
@@ -98,12 +98,12 @@ msgstr ""
 #. module: crm_claim
 #: field:crm.claim.stage,name:0
 msgid "Stage Name"
-msgstr ""
+msgstr "Назва стадії"
 
 #. module: crm_claim
 #: view:crm.claim.report:0
 msgid "Salesperson"
-msgstr ""
+msgstr "Продавець"
 
 #. module: crm_claim
 #: selection:crm.claim,priority:0 selection:crm.claim.report,priority:0
@@ -123,7 +123,7 @@ msgstr ""
 #. module: crm_claim
 #: field:crm.claim,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Повідомлення"
 
 #. module: crm_claim
 #: model:crm.case.categ,name:crm_claim.categ_claim1
@@ -144,12 +144,12 @@ msgstr ""
 #. module: crm_claim
 #: help:crm.claim,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Якщо позначено, то повідомленя потребує вашої уваги"
 
 #. module: crm_claim
 #: field:crm.claim.report,date_closed:0
 msgid "Close Date"
-msgstr ""
+msgstr "Дата закриття"
 
 #. module: crm_claim
 #: view:res.partner:0
@@ -176,7 +176,7 @@ msgstr ""
 msgid ""
 "Holds the Chatter summary (number of messages, ...). This summary is "
 "directly in html format in order to be inserted in kanban views."
-msgstr ""
+msgstr "Містить загальну інформацію про діалоги в форматі html."
 
 #. module: crm_claim
 #: view:crm.claim:0 field:crm.claim,date_deadline:0
@@ -230,7 +230,7 @@ msgstr ""
 #. module: crm_claim
 #: field:crm.claim,message_follower_ids:0
 msgid "Followers"
-msgstr ""
+msgstr "Хто слідкує"
 
 #. module: crm_claim
 #: view:crm.claim:0 selection:crm.claim,state:0 view:crm.claim.report:0
@@ -258,7 +258,7 @@ msgstr "Найнижчий"
 #: code:addons/crm_claim/crm_claim.py:186
 #, python-format
 msgid "%s (copy)"
-msgstr ""
+msgstr "%s (копія)"
 
 #. module: crm_claim
 #: view:crm.claim.report:0
@@ -278,17 +278,17 @@ msgstr ""
 #. module: crm_claim
 #: model:crm.claim.stage,name:crm_claim.stage_claim3
 msgid "Rejected"
-msgstr ""
+msgstr "Rejected"
 
 #. module: crm_claim
 #: field:crm.claim,date_action_next:0
 msgid "Next Action Date"
-msgstr ""
+msgstr "Дата наступної дії"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_sale_config_settings
 msgid "sale.config.settings"
-msgstr ""
+msgstr "sale.config.settings"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,help:crm_claim.action_report_crm_claim
@@ -300,7 +300,7 @@ msgstr ""
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "July"
-msgstr ""
+msgstr "July"
 
 #. module: crm_claim
 #: view:crm.claim.stage:0
@@ -317,7 +317,7 @@ msgstr "Категорії"
 #: view:crm.claim:0 field:crm.claim,stage_id:0 view:crm.claim.report:0
 #: field:crm.claim.report,stage_id:0
 msgid "Stage"
-msgstr ""
+msgstr "Стадія"
 
 #. module: crm_claim
 #: view:crm.claim:0
@@ -333,7 +333,7 @@ msgstr ""
 #: code:addons/crm_claim/crm_claim.py:202
 #, python-format
 msgid "No Subject"
-msgstr ""
+msgstr "Без теми"
 
 #. module: crm_claim
 #: help:crm.claim.stage,state:0
@@ -352,7 +352,7 @@ msgstr ""
 #. module: crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_claim_stage_view
 msgid "Stages"
-msgstr ""
+msgstr "Стадії"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,name:crm_claim.action_report_crm_claim
@@ -363,7 +363,7 @@ msgstr ""
 #. module: crm_claim
 #: help:crm.claim.report,delay_close:0
 msgid "Number of Days to close the case"
-msgstr ""
+msgstr "Кількість днів для закриття справи"
 
 #. module: crm_claim
 #: model:ir.model,name:crm_claim.model_crm_claim_report
@@ -373,22 +373,22 @@ msgstr ""
 #. module: crm_claim
 #: view:sale.config.settings:0
 msgid "Configure"
-msgstr ""
+msgstr "Налаштувати"
 
 #. module: crm_claim
 #: model:crm.case.resource.type,name:crm_claim.type_claim1
 msgid "Corrective"
-msgstr ""
+msgstr "Коригування"
 
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "December"
-msgstr ""
+msgstr "December"
 
 #. module: crm_claim
 #: view:crm.claim.report:0 field:crm.claim.report,month:0
@@ -498,7 +498,7 @@ msgstr "Статус"
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #. module: crm_claim
 #: selection:crm.claim,priority:0 selection:crm.claim.report,priority:0
@@ -513,7 +513,7 @@ msgstr ""
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "June"
-msgstr ""
+msgstr "June"
 
 #. module: crm_claim
 #: field:crm.claim,id:0
@@ -528,7 +528,7 @@ msgstr "Телефон"
 #. module: crm_claim
 #: field:crm.claim,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Стежить"
 
 #. module: crm_claim
 #: field:crm.claim.report,user_id:0
@@ -566,17 +566,17 @@ msgstr "Активний"
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #. module: crm_claim
 #: view:crm.claim.report:0
 msgid "Extended Filters..."
-msgstr ""
+msgstr "Extended Filters..."
 
 #. module: crm_claim
 #: view:crm.claim:0
 msgid "Closure"
-msgstr ""
+msgstr "Закриття"
 
 #. module: crm_claim
 #: help:crm.claim,section_id:0
@@ -588,12 +588,12 @@ msgstr ""
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "October"
-msgstr ""
+msgstr "October"
 
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "January"
-msgstr ""
+msgstr "January"
 
 #. module: crm_claim
 #: view:crm.claim:0 field:crm.claim,date:0
@@ -622,12 +622,12 @@ msgstr ""
 #: model:ir.ui.menu,name:crm_claim.menu_crm_case_claims view:res.partner:0
 #: field:res.partner,claims_ids:0
 msgid "Claims"
-msgstr ""
+msgstr "Скарги"
 
 #. module: crm_claim
 #: selection:crm.claim,type_action:0 selection:crm.claim.report,type_action:0
 msgid "Corrective Action"
-msgstr ""
+msgstr "Корегуюча дія"
 
 #. module: crm_claim
 #: model:crm.case.categ,name:crm_claim.categ_claim3
@@ -637,13 +637,13 @@ msgstr ""
 #. module: crm_claim
 #: view:crm.claim:0
 msgid "Date Closed"
-msgstr ""
+msgstr "Дата закриття"
 
 #. module: crm_claim
 #: view:crm.claim:0 model:ir.model,name:crm_claim.model_crm_claim
 #: model:ir.ui.menu,name:crm_claim.menu_config_claim
 msgid "Claim"
-msgstr ""
+msgstr "Скарга"
 
 #. module: crm_claim
 #: view:crm.claim.report:0
@@ -680,7 +680,7 @@ msgstr ""
 #: model:crm.claim.stage,name:crm_claim.stage_claim5
 #: selection:crm.claim.stage,state:0
 msgid "In Progress"
-msgstr ""
+msgstr "В процесі"
 
 #. module: crm_claim
 #: view:crm.claim:0 field:crm.claim,user_id:0
@@ -700,7 +700,7 @@ msgstr ""
 #. module: crm_claim
 #: field:crm.claim.report,delay_expected:0
 msgid "Overpassed Deadline"
-msgstr ""
+msgstr "Пройдено граничний термін"
 
 #. module: crm_claim
 #: field:crm.claim,cause:0
@@ -725,7 +725,7 @@ msgstr ""
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "May"
-msgstr ""
+msgstr "May"
 
 #. module: crm_claim
 #: view:crm.claim:0 view:crm.claim.report:0
@@ -745,17 +745,17 @@ msgstr ""
 #. module: crm_claim
 #: field:crm.claim.report,email:0
 msgid "# Emails"
-msgstr ""
+msgstr "К-сть листів"
 
 #. module: crm_claim
 #: view:crm.claim:0
 msgid "Follow Up"
-msgstr ""
+msgstr "Післядія"
 
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "February"
-msgstr ""
+msgstr "February"
 
 #. module: crm_claim
 #: model:ir.actions.act_window,help:crm_claim.crm_case_categ_claim0
@@ -779,7 +779,7 @@ msgstr ""
 #. module: crm_claim
 #: selection:crm.claim.report,month:0
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #. module: crm_claim
 #: view:crm.claim.report:0
@@ -794,7 +794,7 @@ msgstr ""
 #. module: crm_claim
 #: help:crm.claim,message_ids:0
 msgid "Messages and communication history"
-msgstr ""
+msgstr "Повідомлення та історія бесіди"
 
 #. module: crm_claim
 #: field:sale.config.settings,fetchmail_claim:0
@@ -819,12 +819,12 @@ msgstr "Високий"
 #. module: crm_claim
 #: field:crm.claim,section_id:0 view:crm.claim.report:0
 msgid "Sales Team"
-msgstr ""
+msgstr "Відділ продажу"
 
 #. module: crm_claim
 #: field:crm.claim.report,create_date:0
 msgid "Create Date"
-msgstr ""
+msgstr "Дата створення"
 
 #. module: crm_claim
 #: view:crm.claim:0

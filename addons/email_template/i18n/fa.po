@@ -3,13 +3,14 @@
 # * email_template
 # 
 # Translators:
+# elaheh pourrezaie <elaheh.pourrezaie@hotmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-14 00:10+0000\n"
-"PO-Revision-Date: 2015-07-17 08:55+0000\n"
-"Last-Translator: Martin Trigaux\n"
+"PO-Revision-Date: 2016-07-22 23:05+0000\n"
+"Last-Translator: elaheh pourrezaie <elaheh.pourrezaie@hotmail.com>\n"
 "Language-Team: Persian (http://www.transifex.com/odoo/odoo-7/language/fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,7 +32,7 @@ msgstr ""
 #: help:email.template,ref_ir_value:0
 #: help:email_template.preview,ref_ir_value:0
 msgid "Sidebar button to open the sidebar action"
-msgstr ""
+msgstr "دکمه نوار جانبی برای باز کردن عملکرد نوار جانبی"
 
 #. module: email_template
 #: field:res.partner,opt_out:0
@@ -54,7 +55,7 @@ msgstr ""
 #: field:email.template,mail_server_id:0
 #: field:email_template.preview,mail_server_id:0
 msgid "Outgoing Mail Server"
-msgstr ""
+msgstr "سرور ایمیل Outgoing"
 
 #. module: email_template
 #: help:email.template,ref_ir_act_window:0
@@ -110,12 +111,12 @@ msgstr "بدنه"
 #: code:addons/email_template/email_template.py:247
 #, python-format
 msgid "%s (copy)"
-msgstr ""
+msgstr "%s (کپی)"
 
 #. module: email_template
 #: field:mail.compose.message,template_id:0
 msgid "Template"
-msgstr ""
+msgstr "پوسته"
 
 #. module: email_template
 #: help:email.template,user_signature:0
@@ -327,7 +328,7 @@ msgstr "مدل"
 #. module: email_template
 #: model:ir.model,name:email_template.model_mail_compose_message
 msgid "Email composition wizard"
-msgstr ""
+msgstr "ویزارد ایجاد ایمیل"
 
 #. module: email_template
 #: view:email.template:0

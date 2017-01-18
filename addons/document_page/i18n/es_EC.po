@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-14 00:10+0000\n"
-"PO-Revision-Date: 2015-08-25 14:03+0000\n"
+"PO-Revision-Date: 2016-01-31 00:50+0000\n"
 "Last-Translator: Martin Trigaux\n"
 "Language-Team: Spanish (Ecuador) (http://www.transifex.com/odoo/odoo-7/language/es_EC/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Categoría"
 #. module: document_page
 #: view:document.page:0 field:document.page,write_uid:0
 msgid "Last Contributor"
-msgstr ""
+msgstr "Último colaborador"
 
 #. module: document_page
 #: view:document.page:0 field:document.page,create_uid:0
@@ -42,7 +42,7 @@ msgstr "Menú"
 #. module: document_page
 #: view:document.page:0 model:ir.model,name:document_page.model_document_page
 msgid "Document Page"
-msgstr ""
+msgstr "Página de documento"
 
 #. module: document_page
 #: model:ir.actions.act_window,name:document_page.action_related_page_history
@@ -53,7 +53,7 @@ msgstr ""
 #: view:document.page:0 field:document.page,content:0
 #: selection:document.page,type:0 field:document.page.history,content:0
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 #. module: document_page
 #: view:document.page:0
@@ -138,14 +138,14 @@ msgstr "Fecha"
 #: model:ir.actions.act_window,name:document_page.action_view_wiki_show_diff_values
 #: view:wizard.document.page.history.show_diff:0
 msgid "Difference"
-msgstr ""
+msgstr "Diferencia"
 
 #. module: document_page
 #: model:ir.actions.act_window,name:document_page.action_page
 #: model:ir.ui.menu,name:document_page.menu_page
 #: model:ir.ui.menu,name:document_page.menu_wiki
 msgid "Pages"
-msgstr ""
+msgstr "Páginas"
 
 #. module: document_page
 #: model:ir.ui.menu,name:document_page.menu_category
@@ -170,7 +170,7 @@ msgstr ""
 #. module: document_page
 #: field:document.page,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Creado"
 
 #. module: document_page
 #: code:addons/document_page/wizard/document_page_show_diff.py:50
@@ -212,7 +212,7 @@ msgstr "Nombre menú"
 #. module: document_page
 #: field:document.page.history,page_id:0
 msgid "Page"
-msgstr ""
+msgstr "Página"
 
 #. module: document_page
 #: field:document.page,history_ids:0

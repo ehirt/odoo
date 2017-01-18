@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-08-14 00:10+0000\n"
-"PO-Revision-Date: 2015-05-29 13:13+0000\n"
+"PO-Revision-Date: 2016-07-22 03:09+0000\n"
 "Last-Translator: Martin Trigaux\n"
 "Language-Team: Spanish (Chile) (http://www.transifex.com/odoo/odoo-7/language/es_CL/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 #: code:addons/mail/mail_thread.py:259
 #, python-format
 msgid "%s created"
-msgstr ""
+msgstr "%s creado"
 
 #. module: mail
 #: field:mail.compose.message,author_id:0 view:mail.mail:0
@@ -88,7 +88,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:mail.action_email_compose_message_wizard
 #: view:mail.compose.message:0
 msgid "Compose Email"
-msgstr ""
+msgstr "Componer correo electrónico"
 
 #. module: mail
 #: constraint:mail.alias:0
@@ -117,7 +117,7 @@ msgstr ""
 #. module: mail
 #: view:mail.mail:0
 msgid "Body"
-msgstr ""
+msgstr "Contenido"
 
 #. module: mail
 #: view:mail.message:0
@@ -134,7 +134,7 @@ msgstr ""
 #. module: mail
 #: model:ir.model,name:mail.model_mail_compose_message
 msgid "Email composition wizard"
-msgstr ""
+msgstr "Asistente de redacción de correo electrónico."
 
 #. module: mail
 #. openerp-web
@@ -153,7 +153,7 @@ msgstr ""
 #. module: mail
 #: field:mail.message.subtype,parent_id:0
 msgid "Parent"
-msgstr ""
+msgstr "Padre"
 
 #. module: mail
 #: help:res.partner,notification_email_send:0
@@ -367,13 +367,13 @@ msgstr ""
 #: code:addons/mail/static/src/xml/mail.xml:54
 #, python-format
 msgid "Send a message"
-msgstr ""
+msgstr "Enviar un mensaje"
 
 #. module: mail
 #: help:mail.group,message_unread:0 help:mail.thread,message_unread:0
 #: help:res.partner,message_unread:0
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Si está marcado, hay nuevos mensajes que requieren su atención"
 
 #. module: mail
 #: field:mail.group,image_medium:0
@@ -537,7 +537,7 @@ msgstr ""
 #: code:addons/mail/static/src/js/mail_followers.js:157
 #, python-format
 msgid "followers"
-msgstr ""
+msgstr "seguidores"
 
 #. module: mail
 #: view:mail.group:0
@@ -549,7 +549,7 @@ msgstr ""
 #: code:addons/mail/static/src/xml/mail.xml:36 view:mail.compose.message:0
 #, python-format
 msgid "Send"
-msgstr ""
+msgstr "Enviar"
 
 #. module: mail
 #. openerp-web
@@ -578,7 +578,7 @@ msgstr ""
 #: field:res.partner,message_follower_ids:0
 #, python-format
 msgid "Followers"
-msgstr ""
+msgstr "Seguidores"
 
 #. module: mail
 #: model:ir.actions.client,name:mail.action_mail_archives_feeds
@@ -589,7 +589,7 @@ msgstr ""
 #. module: mail
 #: view:mail.compose.message:0
 msgid "Subject..."
-msgstr ""
+msgstr "Asunto..."
 
 #. module: mail
 #. openerp-web
@@ -636,7 +636,7 @@ msgstr ""
 #. module: mail
 #: view:mail.mail:0
 msgid "by"
-msgstr ""
+msgstr "por"
 
 #. module: mail
 #: code:addons/mail/res_users.py:89
@@ -816,7 +816,7 @@ msgstr ""
 #. module: mail
 #: model:ir.model,name:mail.model_ir_ui_menu
 msgid "ir.ui.menu"
-msgstr ""
+msgstr "ir.ui.menu"
 
 #. module: mail
 #: view:mail.message:0
@@ -1004,7 +1004,7 @@ msgstr ""
 #. module: mail
 #: view:mail.mail:0
 msgid "Notification"
-msgstr ""
+msgstr "Notificación"
 
 #. module: mail
 #. openerp-web
@@ -1068,7 +1068,7 @@ msgstr "De salida"
 #: view:mail.wizard.invite:0
 #, python-format
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #. module: mail
 #: code:addons/mail/mail_thread.py:113
@@ -1088,7 +1088,7 @@ msgstr ""
 #: field:mail.compose.message,notification_ids:0 view:mail.message:0
 #: field:mail.message,notification_ids:0 view:mail.notification:0
 msgid "Notifications"
-msgstr ""
+msgstr "Notificaciones"
 
 #. module: mail
 #: view:mail.alias:0
@@ -1252,7 +1252,7 @@ msgstr ""
 #: field:mail.compose.message,starred:0 field:mail.message,starred:0
 #: field:mail.notification,starred:0
 msgid "Starred"
-msgstr ""
+msgstr "Destacado"
 
 #. module: mail
 #: field:mail.group,menu_id:0
@@ -1505,7 +1505,7 @@ msgstr ""
 #. module: mail
 #: view:mail.mail:0 selection:mail.mail,state:0
 msgid "Sent"
-msgstr ""
+msgstr "Enviado"
 
 #. module: mail
 #: field:mail.mail,body_html:0
@@ -1601,7 +1601,7 @@ msgstr ""
 #: view:mail.message:0 field:mail.thread,message_ids:0
 #: field:res.partner,message_ids:0
 msgid "Messages"
-msgstr ""
+msgstr "Mensajes"
 
 #. module: mail
 #: code:addons/mail/mail_mail.py:222 code:addons/mail/mail_mail.py:243
@@ -1631,7 +1631,7 @@ msgstr ""
 #. module: mail
 #: model:ir.model,name:mail.model_mail_mail
 msgid "Outgoing Mails"
-msgstr ""
+msgstr "Correos Salientes"
 
 #. module: mail
 #: help:mail.compose.message,notification_ids:0

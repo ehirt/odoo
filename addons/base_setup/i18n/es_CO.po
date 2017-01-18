@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 7.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-07 19:36+0000\n"
-"PO-Revision-Date: 2015-07-17 08:43+0000\n"
+"PO-Revision-Date: 2016-03-30 08:24+0000\n"
 "Last-Translator: Martin Trigaux\n"
 "Language-Team: Spanish (Colombia) (http://www.transifex.com/odoo/odoo-7/language/es_CO/)\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr ""
 #. module: base_setup
 #: selection:base.setup.terminology,partner:0
 msgid "Guest"
-msgstr ""
+msgstr "Visitante"
 
 #. module: base_setup
 #: view:sale.config.settings:0
@@ -66,12 +66,12 @@ msgstr "Miembro"
 #. module: base_setup
 #: view:base.config.settings:0
 msgid "Portal access"
-msgstr ""
+msgstr "Acceso a portal"
 
 #. module: base_setup
 #: view:base.config.settings:0
 msgid "Authentication"
-msgstr ""
+msgstr "Autenticación"
 
 #. module: base_setup
 #: view:sale.config.settings:0
@@ -83,27 +83,27 @@ msgstr ""
 #: model:ir.actions.act_window,name:base_setup.action_general_configuration
 #: model:ir.ui.menu,name:base_setup.menu_general_configuration
 msgid "General Settings"
-msgstr ""
+msgstr "Ajustes Generales"
 
 #. module: base_setup
 #: selection:base.setup.terminology,partner:0
 msgid "Donor"
-msgstr ""
+msgstr "Donante"
 
 #. module: base_setup
 #: view:base.config.settings:0
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #. module: base_setup
 #: field:sale.config.settings,module_crm:0
 msgid "CRM"
-msgstr ""
+msgstr "CRM"
 
 #. module: base_setup
 #: selection:base.setup.terminology,partner:0
 msgid "Patient"
-msgstr ""
+msgstr "Paciente"
 
 #. module: base_setup
 #: field:base.config.settings,module_base_import:0
@@ -113,7 +113,7 @@ msgstr ""
 #. module: base_setup
 #: field:base.config.settings,module_multi_company:0
 msgid "Manage multiple companies"
-msgstr ""
+msgstr "Gestionar varias compañías"
 
 #. module: base_setup
 #: view:sale.config.settings:0
@@ -138,7 +138,7 @@ msgstr ""
 #. module: base_setup
 #: view:base.setup.terminology:0
 msgid "res_config_contents"
-msgstr ""
+msgstr "res_config_contenidos"
 
 #. module: base_setup
 #: view:sale.config.settings:0
@@ -148,7 +148,7 @@ msgstr ""
 #. module: base_setup
 #: view:base.config.settings:0
 msgid "Import / Export"
-msgstr ""
+msgstr "Importar / Exportar"
 
 #. module: base_setup
 #: view:sale.config.settings:0
@@ -165,12 +165,12 @@ msgstr ""
 msgid ""
 "You can use this wizard to change the terminologies for customers in the "
 "whole application."
-msgstr ""
+msgstr "Puede usar este asistente para cambiar la terminología de clientes en la aplicación. "
 
 #. module: base_setup
 #: selection:base.setup.terminology,partner:0
 msgid "Tenant"
-msgstr ""
+msgstr "Arrendatario"
 
 #. module: base_setup
 #: help:base.config.settings,module_share:0
@@ -208,17 +208,17 @@ msgstr ""
 msgid ""
 "You will find more options in your company details: address for the header "
 "and footer, overdue payments texts, etc."
-msgstr ""
+msgstr "Usted puede encontrar más opciones en el detalle de su compañía: Dirección para el encabezado y pie de página, textos pagos atrasados, etc."
 
 #. module: base_setup
 #: model:ir.model,name:base_setup.model_sale_config_settings
 msgid "sale.config.settings"
-msgstr ""
+msgstr "Configuración"
 
 #. module: base_setup
 #: field:base.setup.terminology,partner:0
 msgid "How do you call a Customer"
-msgstr ""
+msgstr "Como Llamar a un Cliente"
 
 #. module: base_setup
 #: view:base.config.settings:0
@@ -228,17 +228,17 @@ msgid ""
 "                                    able to signup to get all his documents,\n"
 "                                    read your company news, check his projects,\n"
 "                                    etc."
-msgstr ""
+msgstr "Cuando envía un documento a un cliente\n (cotización, factura), su cliente podrá\ningresar para obtener todos sus documentos,\nleer las noticias de la compañías, ver sus proyectos,\netc."
 
 #. module: base_setup
 #: model:ir.model,name:base_setup.model_base_setup_terminology
 msgid "base.setup.terminology"
-msgstr ""
+msgstr "base.setup.terminology"
 
 #. module: base_setup
 #: selection:base.setup.terminology,partner:0
 msgid "Client"
-msgstr ""
+msgstr "Cliente"
 
 #. module: base_setup
 #: help:base.config.settings,module_portal_anonymous:0
@@ -264,13 +264,13 @@ msgstr "Empresa/Cliente"
 #. module: base_setup
 #: model:ir.actions.act_window,name:base_setup.action_partner_terminology_config_form
 msgid "Use another word to say \"Customer\""
-msgstr ""
+msgstr "Usar otra palabra para decir 'Cliente'"
 
 #. module: base_setup
 #: model:ir.actions.act_window,name:base_setup.action_sale_config
 #: view:sale.config.settings:0
 msgid "Configure Sales"
-msgstr ""
+msgstr "Configurar Ventas"
 
 #. module: base_setup
 #: help:sale.config.settings,module_plugin_outlook:0
@@ -285,12 +285,12 @@ msgstr ""
 #. module: base_setup
 #: view:base.config.settings:0
 msgid "Options"
-msgstr ""
+msgstr "Opciones"
 
 #. module: base_setup
 #: field:base.config.settings,module_portal:0
 msgid "Activate the customer portal"
-msgstr ""
+msgstr "Activar el portal del cliente"
 
 #. module: base_setup
 #: view:base.config.settings:0
@@ -302,7 +302,7 @@ msgstr ""
 #. module: base_setup
 #: field:base.config.settings,module_share:0
 msgid "Allow documents sharing"
-msgstr ""
+msgstr "Permitir compartir documentos"
 
 #. module: base_setup
 #: view:base.config.settings:0
@@ -317,7 +317,7 @@ msgstr ""
 #. module: base_setup
 #: view:base.config.settings:0
 msgid "Configure outgoing email servers"
-msgstr ""
+msgstr "Configurar servidores de correo saliente"
 
 #. module: base_setup
 #: view:sale.config.settings:0
@@ -327,7 +327,7 @@ msgstr ""
 #. module: base_setup
 #: help:base.config.settings,module_portal:0
 msgid "Give your customers access to their documents."
-msgstr ""
+msgstr "Dar a sus clientes acceso a sus documentos."
 
 #. module: base_setup
 #: view:base.config.settings:0 view:sale.config.settings:0
@@ -342,7 +342,7 @@ msgstr "Aplicar"
 #. module: base_setup
 #: view:base.setup.terminology:0
 msgid "Specify Your Terminology"
-msgstr ""
+msgstr "Especifique su Terminología"
 
 #. module: base_setup
 #: view:base.config.settings:0 view:sale.config.settings:0
@@ -352,4 +352,4 @@ msgstr "o"
 #. module: base_setup
 #: view:base.config.settings:0
 msgid "Configure your company data"
-msgstr ""
+msgstr "Configurar los datos de su compañía"
